@@ -48,9 +48,11 @@ Software project focused on adaptive learning and educational management.
 ### Currently Learning
 
 * Advanced NestJS & backend architecture
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
 * AI application development
-* Cloud & DevOps
-* CI/CD
+* Cloud Computing
+
 
 ### Connect
 
