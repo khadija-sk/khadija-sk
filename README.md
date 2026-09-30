@@ -2,7 +2,7 @@
 
 🎓 Engineering student in **Digital Transformation & Artificial Intelligence** at ENSA Al Hoceïma.
 
-I enjoy building **AI-powered applications, data-driven solutions, and backend systems**, with a focus on turning ideas into practical software.
+I enjoy building **AI-powered applications, data-driven solutions, and full-stack software **, with a focus on turning ideas into practical software.
 
 ### What I work with
 
