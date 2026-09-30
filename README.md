@@ -1,12 +1,12 @@
 # Hi, I'm Khadija Sayoukh
 
- Engineering student in **Digital Transformation & Artificial Intelligence** at ENSA Al Hoceïma.
+Engineering student in **Digital Transformation and Artificial Intelligence** at ENSA Al Hoceïma.
 
-I enjoy building **AI-powered applications, data-driven solutions, and full-stack software **, with a focus on turning ideas into practical software.
+I’m passionate about technology and building solutions that solve real problems. Through projects and internships, I’ve explored **AI, data, software development, cybersecurity, and backend systems** across different technologies.
 
-### What I work with
+### What I Work With
 
-**Languages & Backend**
+**Languages & Development**
 
 * Python
 * TypeScript / JavaScript
@@ -15,7 +15,7 @@ I enjoy building **AI-powered applications, data-driven solutions, and full-stac
 * FastAPI
 * Laravel
 
-**Data & AI**
+**AI & Data**
 
 * scikit-learn
 * Data Analysis
@@ -33,17 +33,17 @@ I enjoy building **AI-powered applications, data-driven solutions, and full-stac
 
 ### Featured Projects
 
- **CyberAudit**
+**CyberAudit**
 Cybersecurity maturity assessment platform for Moroccan SMEs, built with Python and Streamlit.
 
- **E-commerce Sales Analysis**
-Data analysis and machine learning project covering sales performance, RFM customer segmentation, revenue prediction, and a FastAPI backend.
+**E-Commerce Sales Analysis**
+End-to-end data analysis and machine learning project covering sales performance, customer segmentation, revenue prediction, and a FastAPI REST API.
 
- **Digital Twin**
-Python-based personal tracking application combining data analysis, machine learning, and personalized insights.
+**Digital Twin**
+AI-powered personal productivity desktop application with persistent memory and a multi-LLM architecture.
 
- **LMS / IMS Adaptive**
-Software project focused on adaptive learning and educational management.
+**LMS / IMS Adaptive**
+Team-based learning management system built with Laravel, REST API, and Sanctum authentication.
 
 ### Currently Learning
 
@@ -52,7 +52,6 @@ Software project focused on adaptive learning and educational management.
 * Retrieval-Augmented Generation (RAG)
 * AI application development
 * Cloud Computing
-
 
 ### Connect
 
