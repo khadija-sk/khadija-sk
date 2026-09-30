@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Khadija Sayoukh
 
-<!--
-**khadija-sk/khadija-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student in **Digital Transformation & Artificial Intelligence** at ENSA Al Hoceïma.
 
-Here are some ideas to get you started:
+I enjoy building **AI-powered applications, data-driven solutions, and backend systems**, with a focus on turning ideas into practical software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+**Languages & Backend**
+
+* Python
+* TypeScript / JavaScript
+* PHP
+* NestJS
+* FastAPI
+* Laravel
+
+**Data & AI**
+
+* scikit-learn
+* Data Analysis
+* Machine Learning
+* Streamlit
+* Plotly
+
+**Databases & Tools**
+
+* PostgreSQL
+* MySQL
+* Prisma
+* Docker
+* Git / GitHub
+
+### Featured Projects
+
+🔐 **CyberAudit**
+Cybersecurity maturity assessment platform for Moroccan SMEs, built with Python and Streamlit.
+
+📊 **E-commerce Sales Analysis**
+Data analysis and machine learning project covering sales performance, RFM customer segmentation, revenue prediction, and a FastAPI backend.
+
+🧠 **Digital Twin**
+Python-based personal tracking application combining data analysis, machine learning, and personalized insights.
+
+💻 **LMS / IMS Adaptive**
+Software project focused on adaptive learning and educational management.
+
+### Currently Learning
+
+* Advanced NestJS & backend architecture
+* AI application development
+* Cloud & DevOps
+* CI/CD
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/khadija-sayoukh-1a1a94288)
