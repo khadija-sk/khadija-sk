@@ -1,6 +1,6 @@
 # Hi, I'm Khadija Sayoukh
 
-🎓 Engineering student in **Digital Transformation & Artificial Intelligence** at ENSA Al Hoceïma.
+ Engineering student in **Digital Transformation & Artificial Intelligence** at ENSA Al Hoceïma.
 
 I enjoy building **AI-powered applications, data-driven solutions, and full-stack software **, with a focus on turning ideas into practical software.
 
@@ -33,16 +33,16 @@ I enjoy building **AI-powered applications, data-driven solutions, and full-stac
 
 ### Featured Projects
 
-🔐 **CyberAudit**
+ **CyberAudit**
 Cybersecurity maturity assessment platform for Moroccan SMEs, built with Python and Streamlit.
 
-📊 **E-commerce Sales Analysis**
+ **E-commerce Sales Analysis**
 Data analysis and machine learning project covering sales performance, RFM customer segmentation, revenue prediction, and a FastAPI backend.
 
-🧠 **Digital Twin**
+ **Digital Twin**
 Python-based personal tracking application combining data analysis, machine learning, and personalized insights.
 
-💻 **LMS / IMS Adaptive**
+ **LMS / IMS Adaptive**
 Software project focused on adaptive learning and educational management.
 
 ### Currently Learning
