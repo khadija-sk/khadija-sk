@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Khadija Sayoukh</h1>
+<h1 align="center">
+  <span style="color: #C8A2C8;">Hi, I'm Khadija Sayoukh</span>
+</h1>
 
 <p align="center">
-  <samp>Engineering Student · Digital Transformation & Artificial Intelligence</samp>
+  <strong>Engineering Student · Digital Transformation & Artificial Intelligence</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/—-C8A2C8?style=flat-square" alt="lavender accent" />
+  <em>Learning, exploring, and building at the intersection of technology and real-world problems.</em>
 </p>
-
-<p align="center"><em>Learning, exploring, and building at the intersection of technology and real-world problems.</em></p>
 
 I'm an engineering student at **ENSA Al Hoceïma, Morocco**, interested in how artificial intelligence, data, and software engineering can solve real-world problems.
 
