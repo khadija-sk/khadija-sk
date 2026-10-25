@@ -1,14 +1,8 @@
-<h1 align="center">
-  <span style="color: #C8A2C8;">Hi, I'm Khadija Sayoukh</span>
-</h1>
+# Hi, I'm Khadija Sayoukh
 
-<p align="center">
-  <strong>Engineering Student · Digital Transformation & Artificial Intelligence</strong>
-</p>
+### Engineering Student · Digital Transformation & Artificial Intelligence
 
-<p align="center">
-  <em>Learning, exploring, and building at the intersection of technology and real-world problems.</em>
-</p>
+*Learning, exploring, and building at the intersection of technology and real-world problems.*
 
 I'm an engineering student at **ENSA Al Hoceïma, Morocco**, interested in how artificial intelligence, data, and software engineering can solve real-world problems.
 
@@ -18,7 +12,7 @@ I'm exploring different areas of technology through academic and personal projec
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CCB6D8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-sayoukh-1a1a94288)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C8A2C8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-sayoukh-1a1a94288)
 [![GitHub](https://img.shields.io/badge/GitHub-9B8AA8?style=flat-square&logo=github&logoColor=white)](https://github.com/khadija-sk)
 [![Email](https://img.shields.io/badge/Email-D8B7C8?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ksayoukh@gmail.com)
 
@@ -89,5 +83,5 @@ A team-based learning management system built with Laravel, REST APIs, and Sanct
 ---
 
 <p align="center">
-  <i>Curious about technology. Always learning. Building with purpose.</i>
+  <em>Curious about technology. Always learning. Building with purpose.</em>
 </p>
