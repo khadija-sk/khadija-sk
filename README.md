@@ -1,14 +1,10 @@
-# Hi 👋, I'm Khadija Sayoukh
+# Khadija Sayoukh
 
 ### Engineering Student in Digital Transformation & Artificial Intelligence
 
-I'm an engineering student at **ENSA Al Hoceïma, Morocco**, interested in exploring how AI, data, and software engineering can solve real-world problems.
+Engineering student at **ENSA Al Hoceïma, Morocco**, interested in how artificial intelligence, data, and software engineering can solve real-world problems.
 
-- 🎓 Studying Digital Transformation & Artificial Intelligence
-- 🤖 Exploring AI, Machine Learning, and LLM applications
-- 💻 Building projects in backend development, data, and software engineering
-- ☁️ Currently learning Cloud Computing, advanced backend architecture, and RAG
-- 🌱 Always learning, experimenting, and discovering new areas of technology
+I'm exploring different areas of technology, building practical projects, and continuously developing my technical skills.
 
 ---
 
@@ -22,7 +18,7 @@ I'm an engineering student at **ENSA Al Hoceïma, Morocco**, interested in explo
 
 ### Languages and Tools
 
-**Languages**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-B7A0C8?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-9C91B8?style=flat-square&logo=typescript&logoColor=white)
@@ -55,11 +51,31 @@ I'm an engineering student at **ENSA Al Hoceïma, Morocco**, interested in explo
 
 ### Featured Projects
 
-- **[CyberAudit](https://github.com/khadija-sk/cybersecurity-maturity-assessment)** — A cybersecurity maturity assessment platform designed for Moroccan SMEs.
-- **[E-Commerce Sales Analysis](https://github.com/khadija-sk/e-commerce-sales-analysis)** — Data analysis, customer segmentation, and revenue prediction.
-- **[Digital Twin](https://github.com/khadija-sk/digital-twin)** — An AI-powered personal productivity desktop application with persistent memory and a multi-LLM architecture.
-- **[LMS / IMS Adaptive](https://github.com/khadija-sk/lms-ims-adaptive)** — A team-based learning management system built with Laravel.
+**[CyberAudit](https://github.com/khadija-sk/cybersecurity-maturity-assessment)**
+
+A cybersecurity maturity assessment platform designed to help Moroccan SMEs evaluate their security practices.
+
+**[E-Commerce Sales Analysis](https://github.com/khadija-sk/e-commerce-sales-analysis)**
+
+An end-to-end data project covering sales analysis, customer segmentation, revenue prediction, and a FastAPI REST API.
+
+**[Digital Twin](https://github.com/khadija-sk/digital-twin)**
+
+An AI-powered personal productivity desktop application featuring persistent memory and a multi-LLM architecture.
+
+**[LMS / IMS Adaptive](https://github.com/khadija-sk/lms-ims-adaptive)**
+
+A team-based learning management system built with Laravel, REST APIs, and Sanctum authentication.
 
 ---
 
-*Curiosity leads to discovery. Learning turns ideas into possibilities.* 🌸
+### Currently Learning
+
+- Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
+- Advanced backend architecture with NestJS
+- Cloud Computing
+- AI application development
+
+---
+
+*Curious about technology. Always learning. Building with purpose.*
