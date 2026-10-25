@@ -1,18 +1,20 @@
-# Khadija Sayoukh
+# Hi, I'm Khadija Sayoukh
 
-### Engineering Student in Digital Transformation & Artificial Intelligence
+### Engineering Student · Digital Transformation & Artificial Intelligence
 
-Engineering student at **ENSA Al Hoceïma, Morocco**, interested in how artificial intelligence, data, and software engineering can solve real-world problems.
+*Learning, exploring, and building at the intersection of technology and real-world problems.*
 
-I'm exploring different areas of technology, building practical projects, and continuously developing my technical skills.
+I'm an engineering student at **ENSA Al Hoceïma, Morocco**, interested in how artificial intelligence, data, and software engineering can solve real-world problems.
+
+I'm exploring different areas of technology through academic and personal projects while continuously developing my technical skills.
 
 ---
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C8A2C8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khadija-sayoukh-1a1a94288)
-[![GitHub](https://img.shields.io/badge/GitHub-8E8294?style=flat-square&logo=github&logoColor=white)](https://github.com/khadija-sk)
-[![Email](https://img.shields.io/badge/Email-D8B7C8?style=flat-square&logo=gmail&logoColor=white)](mailto:ksayoukh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CCB6D8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-sayoukh-1a1a94288)
+[![GitHub](https://img.shields.io/badge/GitHub-9B8AA8?style=flat-square&logo=github&logoColor=white)](https://github.com/khadija-sk)
+[![Email](https://img.shields.io/badge/Email-D8B7C8?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ksayoukh@gmail.com)
 
 ---
 
@@ -24,6 +26,8 @@ I'm exploring different areas of technology, building practical projects, and co
 ![TypeScript](https://img.shields.io/badge/TypeScript-9C91B8?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-C8B6D8?style=flat-square&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-B7A0C8?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-C8A2B8?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-9CAFD0?style=flat-square&logo=c&logoColor=white)
 
 **Backend & Development**
 
@@ -78,4 +82,6 @@ A team-based learning management system built with Laravel, REST APIs, and Sanct
 
 ---
 
-*Curious about technology. Always learning. Building with purpose.*
+<p align="center">
+  <i>Curious about technology. Always learning. Building with purpose.</i>
+</p>
