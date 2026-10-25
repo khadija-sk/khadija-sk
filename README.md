@@ -1,8 +1,14 @@
-# Hi, I'm Khadija Sayoukh
+<h1 align="center">Hi, I'm Khadija Sayoukh</h1>
 
-### Engineering Student · Digital Transformation & Artificial Intelligence
+<p align="center">
+  <samp>Engineering Student · Digital Transformation & Artificial Intelligence</samp>
+</p>
 
-*Learning, exploring, and building at the intersection of technology and real-world problems.*
+<p align="center">
+  <img src="https://img.shields.io/badge/—-C8A2C8?style=flat-square" alt="lavender accent" />
+</p>
+
+<p align="center"><em>Learning, exploring, and building at the intersection of technology and real-world problems.</em></p>
 
 I'm an engineering student at **ENSA Al Hoceïma, Morocco**, interested in how artificial intelligence, data, and software engineering can solve real-world problems.
 
