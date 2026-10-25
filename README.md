@@ -1,66 +1,65 @@
-# Khadija Sayoukh
+# Hi 👋, I'm Khadija Sayoukh
 
-*Engineering Student in Digital Transformation & Artificial Intelligence*
+### Engineering Student in Digital Transformation & Artificial Intelligence
 
-I'm an engineering student at **ENSA Al Hoceïma**, passionate about technology and building solutions that solve real-world problems.
+I'm an engineering student at **ENSA Al Hoceïma, Morocco**, interested in exploring how AI, data, and software engineering can solve real-world problems.
 
-Through projects and internships, I've explored different areas of technology, including **AI, data, software development, cybersecurity, and backend systems**. I'm continuously learning, experimenting, and discovering how these fields can work together.
+- 🎓 Studying Digital Transformation & Artificial Intelligence
+- 🤖 Exploring AI, Machine Learning, and LLM applications
+- 💻 Building projects in backend development, data, and software engineering
+- ☁️ Currently learning Cloud Computing, advanced backend architecture, and RAG
+- 🌱 Always learning, experimenting, and discovering new areas of technology
 
 ---
 
-### What I Work With
+### Connect with me
 
-**Languages & Development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C8A2C8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khadija-sayoukh-1a1a94288)
+[![GitHub](https://img.shields.io/badge/GitHub-8E8294?style=flat-square&logo=github&logoColor=white)](https://github.com/khadija-sk)
+[![Email](https://img.shields.io/badge/Email-D8B7C8?style=flat-square&logo=gmail&logoColor=white)](mailto:ksayoukh@gmail.com)
 
-`Python` · `TypeScript` · `JavaScript` · `PHP`
+---
 
-**Backend & APIs**
+### Languages and Tools
 
-`NestJS` · `FastAPI` · `Laravel` · `REST APIs`
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-B7A0C8?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-9C91B8?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-C8B6D8?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-B7A0C8?style=flat-square&logo=php&logoColor=white)
+
+**Backend & Development**
+
+![NestJS](https://img.shields.io/badge/NestJS-C8A2B8?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-A8B8AD?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-CB9C9C?style=flat-square&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-9CAFD0?style=flat-square&logo=docker&logoColor=white)
 
 **AI & Data**
 
-`Machine Learning` · `scikit-learn` · `Data Analysis` · `Streamlit` · `Plotly`
+![scikit-learn](https://img.shields.io/badge/scikit--learn-BBA7C8?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-A99BC7?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-C8A2B8?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-A8A1B8?style=flat-square&logo=plotly&logoColor=white)
 
 **Databases & Tools**
 
-`PostgreSQL` · `MySQL` · `Prisma` · `Docker` · `Git` · `GitHub`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9CAFD0?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-9CB8C8?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-B7A0B8?style=flat-square&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-CB9C9C?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8E8294?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ### Featured Projects
 
-**[CyberAudit](https://github.com/khadija-sk/cybersecurity-maturity-assessment)**
-
-A cybersecurity maturity assessment platform designed for Moroccan SMEs, built with Python and Streamlit.
-
-**[E-Commerce Sales Analysis](https://github.com/khadija-sk/e-commerce-sales-analysis)**
-
-An end-to-end data analysis and machine learning project covering sales performance, customer segmentation, revenue prediction, and a FastAPI REST API.
-
-**[Digital Twin](https://github.com/khadija-sk/digital-twin)**
-
-An AI-powered personal productivity desktop application exploring persistent memory and a multi-LLM architecture.
-
-**[LMS / IMS Adaptive](https://github.com/khadija-sk/lms-ims-adaptive)**
-
-A team-based learning management system built with Laravel, REST APIs, and Sanctum authentication.
+- **[CyberAudit](https://github.com/khadija-sk/cybersecurity-maturity-assessment)** — A cybersecurity maturity assessment platform designed for Moroccan SMEs.
+- **[E-Commerce Sales Analysis](https://github.com/khadija-sk/e-commerce-sales-analysis)** — Data analysis, customer segmentation, and revenue prediction.
+- **[Digital Twin](https://github.com/khadija-sk/digital-twin)** — An AI-powered personal productivity desktop application with persistent memory and a multi-LLM architecture.
+- **[LMS / IMS Adaptive](https://github.com/khadija-sk/lms-ims-adaptive)** — A team-based learning management system built with Laravel.
 
 ---
 
-### Currently Learning
-
-- Advanced NestJS and backend architecture
-- Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
-- AI application development
-- Cloud Computing
-
----
-
-### Connect
-
-[LinkedIn](https://linkedin.com/in/khadija-sayoukh-1a1a94288) · [GitHub](https://github.com/khadija-sk) · [Email](mailto:ksayoukh@gmail.com)
-
----
-
-*Curious about technology. Always learning. Building with purpose.*
+*Curiosity leads to discovery. Learning turns ideas into possibilities.* 🌸
